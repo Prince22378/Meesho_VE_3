@@ -1,4 +1,4 @@
-### 🧠 AI Fashion Tagger – Meesho Visual Taxonomy
+# 🧠 AI Fashion Tagger – Meesho Visual Taxonomy
 
 **⏱ Duration**: Jan 25 – Apr 25  
 **🛠 Tech Stack**: Python, PyTorch, React.js, Django, Tailwind CSS  
