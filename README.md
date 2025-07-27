@@ -15,14 +15,9 @@ Manual fashion tagging is a **billion-dollar bottleneck** for fashion e-commerce
 ---
 
 ## 📊 The Scale of the Problem
+- With manual input taking around one minute per product, scaling to millions of products in a seamless flow poses a significant operational challenge.
 
-| Metric                 | Value                          |
-|------------------------|-------------------------------|
-| 📦 Active SKUs         | 5M+ products needing tagging   |
-| ⏱️ Manual Tagging Time | ~1 min per product            |
-| 🔁 Continuous Uploads  | 24/7 new product inflow        |
-
-Manual tagging struggles with:
+  Manual tagging struggles with:
 
 - 🐌 **Speed Bottleneck**: Products can take days to become searchable due to 10× slower throughput.
 - 📈 **Scalability Nightmare**: Tagging needs grow linearly with SKUs, causing unsustainable costs.
@@ -45,7 +40,7 @@ A robust, full-stack system to **auto-tag fashion product images** using a deep 
 | Metric                 | Value             |
 |------------------------|------------------|
 | ⚡ Inference Time      | **< 1s**         |
-| 🏷 Attributes Handled  | **50+** types     |
+| 🏷 Attributes Handled  | **5 - 10** attributes for 5 clothing categories|
 | 🎯 Evaluation Metric   | **73% harmonic F1** |
 
 ---
